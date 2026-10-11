@@ -1,0 +1,33 @@
+{
+  "slug": "qatar-bahrain-trade-mission",
+  "title": {"en": "Qatar–Bahrain Trade Mission", "ar": "بعثة قطر والبحرين التجارية"},
+  "origin": {"en": "Qatar", "ar": "قطر"},
+  "destination": {"en": "Bahrain", "ar": "البحرين"},
+  "city": {"en": "Manama", "ar": "المنامة"},
+  "dates": null,
+  "duration_days": null,
+  "status": {"en": "Coming soon", "ar": "قريباً"},
+  "application_deadline": null,
+  "participation_fee": null,
+  "available_places": null,
+  "application_review_required": true,
+  "participation_confirmed_on_submission": false,
+  "sectors": [
+    {"en": "Building and construction materials", "ar": "مواد البناء والتشييد"},
+    {"en": "Plastics and packaging", "ar": "البلاستيك والتغليف"},
+    {"en": "Perfumes", "ar": "العطور"},
+    {"en": "Food and beverages", "ar": "الأغذية والمشروبات"},
+    {"en": "Painting materials", "ar": "مواد الدهانات"},
+    {"en": "Petroleum and gas", "ar": "النفط والغاز"}
+  ],
+  "programme": [
+    {"day": 1, "title": {"en": "Market discovery and delegation welcome", "ar": "اكتشاف السوق واستقبال الوفد"}},
+    {"day": 2, "title": {"en": "Tailored B2B matchmaking meetings", "ar": "اجتماعات مواءمة أعمال مخصصة"}},
+    {"day": 3, "title": {"en": "Corporate and market visits", "ar": "زيارات للشركات والسوق"}},
+    {"day": 4, "title": {"en": "Additional meetings and next steps", "ar": "اجتماعات إضافية وخطوات تالية"}}
+  ],
+  "branding": {"primary": "#8b1744", "dark": "#65102f", "warm_neutral": "#f6f1ec", "accent": "#d2a56e", "logo": "assets/qatar-exports-brand.jpg"},
+  "contact_email": null,
+  "form_endpoint": null,
+  "note": "Replace null event dates, duration, fee, deadline, places, contact email, and form endpoint with approved information before launch."
+}
